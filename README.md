@@ -5,7 +5,9 @@
 Realize the design, implementation and non-procedural exploitation of a relational database. 
 
 **ER Diagram**
-![ER diagram]()
+![ER diagram](DiagramaER.png)
+
+
 
 **Conceptual Diagram**
-![Conceptual diagram]()
+![Conceptual diagram](DiagramaConceptuala.png)
